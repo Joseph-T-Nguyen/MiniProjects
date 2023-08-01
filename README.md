@@ -1,4 +1,4 @@
 # Mini Projects
 A collection for some small projects using HTML, CSS and JavaScript. 
 
-It also helps me to keep my CSS, HTML and JS knowledge relatively new.
+I'm aiming to do small, daily projects to keep my keep my knowledge relatively fresh :)
