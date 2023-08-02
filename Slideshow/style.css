@@ -23,7 +23,7 @@ body {
     flex: 0.5;
     margin: 10px;
     position: relative;
-    transition: 700ms ease-in;
+    transition: 1500ms ease-in;
 }
 
 .panel.active {
